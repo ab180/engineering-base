@@ -13,5 +13,13 @@
       <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
       <author>toughrogrammer</author>
     </item>
+    <item>
+      <title>AWS ECS EC2 Cost Optimization</title>
+      <link>https://engineering.ab180.co/stories/aws-ecs-ec2-cost-optimization</link>
+      <guid>https://engineering.ab180.co/stories/aws-ecs-ec2-cost-optimization</guid>
+      <description>ECS와 EC2를 운영할 때 비용 최적화를 위한 방법을 소개합니다.</description>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
+      <author>toughrogrammer</author>
+    </item>
   </channel>
 </rss>
